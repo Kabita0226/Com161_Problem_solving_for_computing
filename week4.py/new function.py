@@ -24,5 +24,5 @@ def addfunction():
     num4=int(input("enter 4number"))
     num5=int(input("enter 5number"))
     sum=num1+num2+num3+num4+num5
-    print(f"the total of 5numbers{sum}")
+print(f"the total of 5numbers{sum}")
 addfunction()
