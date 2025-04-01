@@ -1,0 +1,5 @@
+#dictionary
+Student = {"Aliza":"21","Amit":"22","Ujan":"26","Ajay":"21"}
+print(student)
+student["Kabita"] = "19"
+print(student)
